@@ -50,4 +50,4 @@ Windows.TaskSchedule.exe uninstall
 
 此版本为优化版本，原项目请参考以下link
 
-[Windows-TaskSchedule]: https://github.com/leleroyn/Windows-TaskSchedule
+[Windows-TaskSchedule]( https://github.com/leleroyn/Windows-TaskSchedule)
